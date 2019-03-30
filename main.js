@@ -1,5 +1,5 @@
 const greetings = require("./greeting.js");
-const third = require("./third.js");
+const thirdOne = require("./third.js");
 
 // "Hello"
 greetings.greetingEnglish();
@@ -12,3 +12,7 @@ greetings.greetingSpanish();
 
 // "Hallo"
 greetings.greetingIcelandic();
+
+thirdOne.greetingFrench();
+
+thirdOne.greetingGerman();
